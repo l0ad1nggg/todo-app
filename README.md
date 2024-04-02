@@ -18,6 +18,6 @@ Features
 - Organize Tasks: Group tasks by category, priority, or due date for better organization.
 - Responsive Design: Access Todo App seamlessly across all your devices, whether it's your desktop, tablet, or smartphone.
 
-Demo Check out the [DEMO LINK](https://l0ad1nggg.github.io/todo-app/) to see MyBike in action.
+Demo Check out the [DEMO LINK](https://l0ad1nggg.github.io/todo-app/) to see Todo App in action.
 
 Happy organizing!
